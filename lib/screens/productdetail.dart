@@ -205,12 +205,7 @@ class _ProductDetailPageState extends State<ProductDetailPage> {
                   ),
                 ],
               ),
-          ],),
-        ),
-      ),
-            
-            
-              const SizedBox(height: 20),
+                            const SizedBox(height: 10),
               // Add to Cart Button
               Center(
                 child: ElevatedButton(
@@ -238,6 +233,14 @@ class _ProductDetailPageState extends State<ProductDetailPage> {
                   child: const Text("Add to Cart"),
                 ),
               ),
+          ],
+          ),
+        ),
+        
+      ),
+            
+            
+
             ],
           ),
         ),

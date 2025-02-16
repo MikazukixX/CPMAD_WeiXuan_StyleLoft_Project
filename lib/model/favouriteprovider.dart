@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:wx_styleloft_project_flutter/model/clothing.dart';
-// import 'package:wx_styleloft_project_flutter/services/httpservice.dart'; // Assuming HttpService exists
 import 'package:firebase_auth/firebase_auth.dart';
 
 
