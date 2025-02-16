@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<!--  Required Permissions  -->
+<uses-permission android:name="android.permission.INTERNET"/>
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+<!--  Application Setup  -->
+<application android:usesCleartextTraffic="true">
+<!--  Google Maps API Key  -->
+<meta-data android:name="com.google.android.geo.API_KEY" 
+android:value="AIzaSyBquGK8LNwPQCclsSZ_YatZDj9TlgIONZo"/>
+</application>
+</manifest>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "438824018210",
+    "project_id": "wx-styleloft-flutter-project",
+    "storage_bucket": "wx-styleloft-flutter-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438824018210:android:f41baa8a2711b3ab9d057b",
+        "android_client_info": {
+          "package_name": "com.example.wx_styleloft_project_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVesl4Yh2wh9fznSdmWjxq1Fwy3D2xN1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
