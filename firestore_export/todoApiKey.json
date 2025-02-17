@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "wx-styleloft-flutter-project",
+  "private_key_id": "9e19a361e1d74a35f1b6324abba370abe9743b7f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDlar8tDz9GKT6I\nOfRP9VFu4ILsKF9+NQ+7D9nMYVJYtVdVAhPUFPbsfPf0fAmVTemuaBz0u+SMUImE\n37KiqIaXlBX2+UoFkJtrKu8C1QIMfd0hdLFmlx4GM070hbI98GBPQY/JO4sO/c+Z\nuBu/L466WtyDZ/ypOStmJHPkmhtlqxRYpXOKwbteEVdbRtrOYmrh4SSHurjotoL1\nnMTtl6EmlMLlcVZ8cjre7irRCzl+oGSDCFn0Au+0fYcysDMs8N5Srx3Dn3cOU+YR\nv5kJOQ5LaARd95DgWeQu3cFhY11a2c+9El1jftjHiq01j/DFoamRIOdT4ZhXsWMk\nk3gUHoapAgMBAAECggEAC7I/yW8R0YSoSr8zqMDv1CiPnDUpuzA+21FhUAV1Mo8a\nQvv+YU1pUmDDrnwFbA6DF7B4q3SJ4Cp5/GOAQsE3TXKQFR2cC8EV32aatWkBN/xR\nwhMmOT4CmpvSjm5jijtfWaMUztRhkFPZ2fM0PPDShMc9n1h1nfYLc6NvoivGMk5o\nHJLWIjxp665aqGr1JBY75Y7uzQeD1H+akFAqTAodWkt3aLOOhT6TSjc7MFxCiFA0\nnZjbEsZTtz6xVxZvNyWvkufoZOjQefXGDUsOhpjxlWUfmzwrIz9KD1g1LbjYnJj5\nHpm/NxvkMeEdqPrIt4YblGvZUTHZFDQdbr7goMpZNQKBgQD48uMF9lk19xLbN5aQ\nV+47jqgrchOFBIJvotLOLivAP08WvbCcZlhgjzDx7T0gXICqHhSevOvpFPiTBvRN\n+wi5qDtMStPHtfs4ZU5qwoJLdvzNVRYYY2ZTV2mf1p+9nCX5enqWIjSJGYVvt7uT\n+bKdfQzno6IHn5QoEw4xRK+C3QKBgQDr6jxtJxvpBITT7D8kBCY6LrU9M27wAb6n\nUUb+/NZnrnRf7TgjZNZ71pq7dYlXecG5JTBchkNeiWwL4bz7qCyfcG9QJ5Vt0M8h\nBFV1exqUmmcxQshtIsv4EvwHzcPFVJR7yalbbRuNDJnMru1Ed0jHMlQcHERfDDAH\nsAUCL5w4PQKBgQClZBhXmbbjF2a7pU6uTvzDLJ+lXYCCWuCdcjtDJ4GBk43judpf\nzc7hN8B4ufhmS45fduSUIUdJ7tjGNVSRijndvlrG8N+KSujAKu3SF6+gm0iQ0fp/\n8WnF7MkLm/c8bUT9XdWbcNYeT4pLEnHYeYelAbNVIW1AS1CO3zoKmWtRMQKBgF2+\ndEiDc+nCK+3yQJzVMUOJb+dj2r9wUgw2ldmZKrGEdyXvI5Gc7kXDXzUCXZLvBPXH\nO1Jo37hfLxoBl5EAoMqyaOkW8Z/zi3r5N+Q5CLToLf07Jl2HqDlpgdCwCQ0OsPoH\nhk6YKox/51WYZRwBsl/FNfr9mIWUWDmVzkeyF4eZAoGAKXg9ai4bE8gSIDvmRfRi\nO3y5SBwq+7uYP6vXdPsmMG+m3Sp5rFDlYIFJzxTCYzzdPAnJSDvl3ygo4h5W3xjg\nEnpMIRrvkeNy6OFlUstXxg7WhvMoPy2kFJiAC36W+zJYMLjG/ybB42j1wdDgIvzQ\n7ZUWmv4tJIynKck057ANWqw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@wx-styleloft-flutter-project.iam.gserviceaccount.com",
+  "client_id": "109882284710152948114",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40wx-styleloft-flutter-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

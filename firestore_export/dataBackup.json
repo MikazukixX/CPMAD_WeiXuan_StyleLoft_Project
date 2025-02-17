@@ -1,0 +1,376 @@
+{
+    "__collections__": {
+        "users": {
+            "ArSohTKLYseMFXuLQlQyDi43FwG3": {
+                "address": "Ang Mo KIo Ave 8",
+                "name": "Admin",
+                "email": "admin@gmail.com",
+                "contact": "94012398",
+                "__collections__": {
+                    "favorites": {
+                        "2": {
+                            "image": "https://i.imgur.com/1twoaDy.jpeg",
+                            "productId": 2,
+                            "price": 10000,
+                            "title": "Nuevo Titulo",
+                            "__collections__": {}
+                        },
+                        "3": {
+                            "image": "https://i.imgur.com/cHddUCu.jpeg",
+                            "productId": 3,
+                            "price": 90,
+                            "title": "Classic Heather Gray Hoodie",
+                            "__collections__": {}
+                        },
+                        "4": {
+                            "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+                            "productId": 4,
+                            "price": 15.99,
+                            "title": "Mens Casual Slim Fit",
+                            "__collections__": {}
+                        }
+                    },
+                    "orders": {
+                        "3baff67e-2299-45b5-9589-e9e8aeb66c64": {
+                            "orderId": "3baff67e-2299-45b5-9589-e9e8aeb66c64",
+                            "totalPrice": 22.3,
+                            "items": [
+                                {
+                                    "quantity": 1,
+                                    "productId": 2,
+                                    "size": "XL",
+                                    "price": "22.3",
+                                    "imgPath": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+                                    "productName": "Mens Casual Premium Slim Fit T-Shirts "
+                                }
+                            ],
+                            "timestamp": {
+                                "__datatype__": "timestamp",
+                                "value": {
+                                    "_seconds": 1739720260,
+                                    "_nanoseconds": 364792000
+                                }
+                            },
+                            "__collections__": {}
+                        },
+                        "57816b99-522b-4cb8-a6c3-90b6700023ea": {
+                            "orderId": "57816b99-522b-4cb8-a6c3-90b6700023ea",
+                            "totalPrice": 109.95,
+                            "items": [
+                                {
+                                    "quantity": 1,
+                                    "productId": 1,
+                                    "size": "XL",
+                                    "price": "109.95",
+                                    "imgPath": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+                                    "productName": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops"
+                                }
+                            ],
+                            "timestamp": {
+                                "__datatype__": "timestamp",
+                                "value": {
+                                    "_seconds": 1739758686,
+                                    "_nanoseconds": 286918000
+                                }
+                            },
+                            "__collections__": {}
+                        },
+                        "67b5408b-1001-4760-a2ea-d9786eace5e7": {
+                            "orderId": "67b5408b-1001-4760-a2ea-d9786eace5e7",
+                            "totalPrice": 110.27000000000001,
+                            "items": [
+                                {
+                                    "quantity": 1,
+                                    "productId": 2,
+                                    "size": "S",
+                                    "price": "22.3",
+                                    "imgPath": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+                                    "productName": "Mens Casual Premium Slim Fit T-Shirts "
+                                },
+                                {
+                                    "quantity": 1,
+                                    "productId": 3,
+                                    "size": "M",
+                                    "price": "55.99",
+                                    "imgPath": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+                                    "productName": "Mens Cotton Jacket"
+                                },
+                                {
+                                    "quantity": 2,
+                                    "productId": 4,
+                                    "size": "XL",
+                                    "price": "15.99",
+                                    "imgPath": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+                                    "productName": "Mens Casual Slim Fit"
+                                }
+                            ],
+                            "timestamp": {
+                                "__datatype__": "timestamp",
+                                "value": {
+                                    "_seconds": 1739614068,
+                                    "_nanoseconds": 919716000
+                                }
+                            },
+                            "__collections__": {}
+                        },
+                        "9b179614-e2fa-4476-b138-090e94a372dc": {
+                            "orderId": "9b179614-e2fa-4476-b138-090e94a372dc",
+                            "totalPrice": 54.28,
+                            "items": [
+                                {
+                                    "quantity": 1,
+                                    "productId": 2,
+                                    "size": "S",
+                                    "price": "22.3",
+                                    "imgPath": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+                                    "productName": "Mens Casual Premium Slim Fit T-Shirts "
+                                },
+                                {
+                                    "quantity": 2,
+                                    "productId": 4,
+                                    "size": "XL",
+                                    "price": "15.99",
+                                    "imgPath": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+                                    "productName": "Mens Casual Slim Fit"
+                                }
+                            ],
+                            "timestamp": {
+                                "__datatype__": "timestamp",
+                                "value": {
+                                    "_seconds": 1739614180,
+                                    "_nanoseconds": 165751000
+                                }
+                            },
+                            "__collections__": {}
+                        },
+                        "b7147603-bcb4-4adc-8795-f09e6bea1489": {
+                            "orderId": "b7147603-bcb4-4adc-8795-f09e6bea1489",
+                            "totalPrice": 15.99,
+                            "items": [
+                                {
+                                    "quantity": 1,
+                                    "productId": 4,
+                                    "size": "L",
+                                    "price": "15.99",
+                                    "imgPath": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+                                    "productName": "Mens Casual Slim Fit"
+                                }
+                            ],
+                            "timestamp": {
+                                "__datatype__": "timestamp",
+                                "value": {
+                                    "_seconds": 1739757496,
+                                    "_nanoseconds": 676735000
+                                }
+                            },
+                            "__collections__": {}
+                        }
+                    }
+                }
+            },
+            "bocN7w8kTjTe09Sn0D0HSRo1SMZ2": {
+                "address": "Ang Mo Kio",
+                "contact": "80929123",
+                "name": "admin2",
+                "email": "admin2@gmail.com",
+                "__collections__": {
+                    "favorites": {
+                        "1": {
+                            "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+                            "productId": 1,
+                            "price": 109.95,
+                            "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                            "__collections__": {}
+                        },
+                        "2": {
+                            "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+                            "productId": 2,
+                            "price": 22.3,
+                            "title": "Mens Casual Premium Slim Fit T-Shirts ",
+                            "__collections__": {}
+                        },
+                        "3": {
+                            "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+                            "productId": 3,
+                            "price": 55.99,
+                            "title": "Mens Cotton Jacket",
+                            "__collections__": {}
+                        },
+                        "4": {
+                            "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+                            "productId": 4,
+                            "price": 15.99,
+                            "title": "Mens Casual Slim Fit",
+                            "__collections__": {}
+                        }
+                    },
+                    "orders": {
+                        "69c927d3-7274-4fae-bbf3-10d7d50631cf": {
+                            "orderId": "69c927d3-7274-4fae-bbf3-10d7d50631cf",
+                            "totalPrice": 109.95,
+                            "items": [
+                                {
+                                    "quantity": 1,
+                                    "productId": 1,
+                                    "size": "XL",
+                                    "price": "109.95",
+                                    "imgPath": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+                                    "productName": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops"
+                                }
+                            ],
+                            "timestamp": {
+                                "__datatype__": "timestamp",
+                                "value": {
+                                    "_seconds": 1739715658,
+                                    "_nanoseconds": 615841000
+                                }
+                            },
+                            "__collections__": {}
+                        },
+                        "73b98a0a-68e7-44ea-b50d-f60616c0568c": {
+                            "orderId": "73b98a0a-68e7-44ea-b50d-f60616c0568c",
+                            "totalPrice": 109.95,
+                            "items": [
+                                {
+                                    "quantity": 1,
+                                    "productId": 1,
+                                    "size": "XL",
+                                    "price": "109.95",
+                                    "imgPath": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+                                    "productName": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops"
+                                }
+                            ],
+                            "timestamp": {
+                                "__datatype__": "timestamp",
+                                "value": {
+                                    "_seconds": 1739716669,
+                                    "_nanoseconds": 457741000
+                                }
+                            },
+                            "__collections__": {}
+                        },
+                        "c0125e02-4601-4d03-a6b3-0f53b0433bfe": {
+                            "orderId": "c0125e02-4601-4d03-a6b3-0f53b0433bfe",
+                            "totalPrice": 109.95,
+                            "items": [
+                                {
+                                    "quantity": 1,
+                                    "productId": 1,
+                                    "size": "XL",
+                                    "price": "109.95",
+                                    "imgPath": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+                                    "productName": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops"
+                                }
+                            ],
+                            "timestamp": {
+                                "__datatype__": "timestamp",
+                                "value": {
+                                    "_seconds": 1739716589,
+                                    "_nanoseconds": 650948000
+                                }
+                            },
+                            "__collections__": {}
+                        }
+                    }
+                }
+            },
+            "fc7mvdFBa2cZclp7zlkH63UXq503": {
+                "address": "Ang Mo Kio Ave",
+                "contact": "80123012",
+                "name": "mingxuan",
+                "email": "mingxuan@gmail.com",
+                "__collections__": {
+                    "favorites": {
+                        "1": {
+                            "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+                            "productId": 1,
+                            "price": 109.95,
+                            "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                            "__collections__": {}
+                        }
+                    },
+                    "orders": {
+                        "ce1c0e5e-d6b2-4ef6-b643-99ace00229cd": {
+                            "orderId": "ce1c0e5e-d6b2-4ef6-b643-99ace00229cd",
+                            "totalPrice": 275.89,
+                            "items": [
+                                {
+                                    "quantity": 2,
+                                    "productId": 1,
+                                    "size": "S",
+                                    "price": "109.95",
+                                    "imgPath": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+                                    "productName": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops"
+                                },
+                                {
+                                    "quantity": 1,
+                                    "productId": 3,
+                                    "size": "L",
+                                    "price": "55.99",
+                                    "imgPath": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+                                    "productName": "Mens Cotton Jacket"
+                                }
+                            ],
+                            "timestamp": {
+                                "__datatype__": "timestamp",
+                                "value": {
+                                    "_seconds": 1739515206,
+                                    "_nanoseconds": 490631000
+                                }
+                            },
+                            "__collections__": {}
+                        }
+                    }
+                }
+            },
+            "mwOVyDDR1HbOyIkcLJsz99sJd3s1": {
+                "address": "amk",
+                "contact": "90120123",
+                "name": "dummy",
+                "email": "dumm@gmail.com",
+                "__collections__": {
+                    "favorites": {
+                        "2": {
+                            "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+                            "productId": 2,
+                            "price": 22.3,
+                            "title": "Mens Casual Premium Slim Fit T-Shirts ",
+                            "__collections__": {}
+                        },
+                        "20": {
+                            "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+                            "productId": 20,
+                            "price": 12.99,
+                            "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+                            "__collections__": {}
+                        }
+                    },
+                    "orders": {
+                        "02268e8a-e384-4130-b3ca-e250a6a761be": {
+                            "orderId": "02268e8a-e384-4130-b3ca-e250a6a761be",
+                            "totalPrice": 66.9,
+                            "items": [
+                                {
+                                    "quantity": 3,
+                                    "productId": 2,
+                                    "size": "XL",
+                                    "price": "22.3",
+                                    "imgPath": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+                                    "productName": "Mens Casual Premium Slim Fit T-Shirts "
+                                }
+                            ],
+                            "timestamp": {
+                                "__datatype__": "timestamp",
+                                "value": {
+                                    "_seconds": 1739723877,
+                                    "_nanoseconds": 844720000
+                                }
+                            },
+                            "__collections__": {}
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
