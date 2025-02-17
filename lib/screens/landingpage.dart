@@ -312,7 +312,7 @@ class _ImageGalleryScreenState extends State<ImageGalleryScreen> {
                   selectedImage = null;
                 });
               },
-              child: AnimatedContainer(
+              child: AnimatedContainer( // code for the enlarged imagge with animated container for smooth animation
                 duration: const Duration(milliseconds: 300),
                 curve: Curves.easeInOut,
                 decoration: BoxDecoration(
