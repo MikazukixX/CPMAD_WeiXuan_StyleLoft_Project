@@ -13,6 +13,10 @@ In today's fast-paced world, online shopping has transformed the way we shop for
 
 By leveraging the power of e-commerce, we aim to create a seamless shopping experience. Our user-friendly platform allows you to effortlessly explore our collections, discover the latest trends, and make informed purchasing decisions.
 <br>
+
+## Setting Up
+-  Go to pubspec.yaml and ctrl save or do a pub get , if not will have error and program can't be start
+
 ## Key Functional Features
 -  **Login/Logout/Registration**
 -  **View And Edit Profile**
