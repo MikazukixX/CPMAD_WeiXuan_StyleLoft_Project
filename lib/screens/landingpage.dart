@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:wx_styleloft_project_flutter/screens/cartpage.dart';
-import 'producthome.dart'; // Import the ProductListPage
+import 'producthome.dart'; 
 import 'package:firebase_auth/firebase_auth.dart';
 import 'profilepage.dart';
 import 'startpage.dart';
@@ -23,7 +23,7 @@ class _LandingPageState extends State<LandingPage> {
 
   // Define the pages for each icon
   final List<Widget> _pages = [
-    const LandingHomePage(),  // Instead of adding LandingPage here, put HomePage or another page as the initial
+    const LandingHomePage(),  
     const ProfilePage(),
     const FavoritePage(),
     const AboutUsPage(),
@@ -85,8 +85,8 @@ class _LandingPageState extends State<LandingPage> {
         decoration: const BoxDecoration(
           color: Colors.white,
           borderRadius: BorderRadius.only(
-            topLeft: Radius.circular(30), // Top-left corner rounded
-            topRight: Radius.circular(30), // Top-right corner rounded
+            topLeft: Radius.circular(30), 
+            topRight: Radius.circular(30), 
           ),
           boxShadow: [
             BoxShadow(
@@ -149,16 +149,6 @@ class _LandingPageState extends State<LandingPage> {
 
 
 
-class FavoritesPage extends StatelessWidget {
-  const FavoritesPage({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return const Center(child: Text('Favorites Page'));
-  }
-}
-
-
 class LandingHomePage extends StatelessWidget {
   const LandingHomePage({super.key});
 
@@ -197,14 +187,13 @@ class _ImageGalleryScreenState extends State<ImageGalleryScreen> {
   void initState() {
     super.initState();
 
-    // Initialize the PageController here
     _pageController = PageController();
 
     // Auto-scroll the page every 3 seconds
     _timer = Timer.periodic(const Duration(seconds: 3), (timer) {
-      if (_currentPage < imagePaths.length - 1) {
+      if (_currentPage < imagePaths.length - 1) { // if currentpage is not at last image increment by 1
         _currentPage++;
-      } else {
+      } else { // if it reaches the last img
         _currentPage = 0; // Loop back to the first image
       }
       _pageController.animateToPage(
@@ -217,9 +206,9 @@ class _ImageGalleryScreenState extends State<ImageGalleryScreen> {
 
   @override
   void dispose() {
-    _timer.cancel(); // Cancel the timer when the widget is disposed
+    _timer.cancel(); // Cancel the timer when to stop scrolling when screen s closed
     _pageController.dispose(); // Dispose the PageController
-    super.dispose();
+    super.dispose(); // this is use to ensure proper cleanup to free up memory
   }
 
   @override
